@@ -1,0 +1,38 @@
+* {
+  font-family: "Raleway", sans-serif;
+  text-align: center;
+}
+
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.flex-container {
+  display: flex;
+  align-content: space-around;
+  justify-content: center;
+  margin-top: 60px;
+}
+
+#experience,
+#education {
+  margin-top: 60px;
+}
+
+.wordp {
+  text-decoration: underline;
+}
+
+.ReactData-name {
+  font-weight: bold;
+   text-decoration: underline;
+}
+ 
+
+.WordPress-name {
+  font-weight: bold;
+   text-decoration: underline;
+}
