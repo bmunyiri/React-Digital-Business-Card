@@ -2,7 +2,11 @@ export default [
   {
     id: 1,
     name: "Kenya Web Professionals",
-    link: "https://kenyawebprofessionals.com"
+    link: (
+      <a href="https://kenyawebprofessionals.com">
+        Visit Kenya Web Professionals .com!
+      </a>
+    )
   },
   {
     id: 2,
