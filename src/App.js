@@ -24,12 +24,16 @@ export default function App() {
       <br />
       <br />
       <h2 className="title is-3">Portfolio</h2>
-       <h3 className="reactp" className="title is-4">React Projects</h3>
+      <h3 className="reactp" className="title is-4 has-background-success">
+        React Projects
+      </h3>
       {Reactproj}
-    
+
       <br />
       <br />
-       <h3 className="wordp" className="title is-4" >WordPress Websites</h3>
+      <h3 className="wordp" className="title is-4 has-background-primary">
+        WordPress Websites
+      </h3>
       {word}
     </div>
   );

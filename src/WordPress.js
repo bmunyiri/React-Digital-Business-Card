@@ -2,7 +2,7 @@ import WordPressData from "./WordPressData";
 
 export default function Wordpress(props) {
   return (
-    <div className="has-background-primary">
+    <div>
       <p className="WordPress-name"> {props.name} </p>
       <p> {props.link}</p>
     </div>

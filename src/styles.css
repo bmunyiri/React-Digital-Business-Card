@@ -3,7 +3,10 @@
   text-align: center;
 }
 
-
+body {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
 img {
   display: block;
   margin-left: auto;
@@ -28,11 +31,10 @@ img {
 
 .ReactData-name {
   font-weight: bold;
-   text-decoration: underline;
+  text-decoration: underline;
 }
- 
 
 .WordPress-name {
   font-weight: bold;
-   text-decoration: underline;
+  text-decoration: underline;
 }
